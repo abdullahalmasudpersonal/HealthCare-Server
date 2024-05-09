@@ -1,0 +1,45 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Programing\\FullStack\\HealthCare\\HealthCare-Server\\logs\\winston\\successes\\.59609456bb5d3e30bf82e03309336412fd930678-audit.json",
+    "files": [
+        {
+            "date": 1714900254670,
+            "name": "D:\\Programing\\FullStack\\HealthCare\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-05-05-15-success.log",
+            "hash": "4bec996ab28b14bc62327c4f509519eb74b1429a6a03addf2b3e33aaf181f13d"
+        },
+        {
+            "date": 1714980001612,
+            "name": "D:\\Programing\\FullStack\\HealthCare\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-06-05-13-success.log",
+            "hash": "27fd2c47c246ff85150d2da84d35e6335d8592efb8c68f2c123bae0450a64b48"
+        },
+        {
+            "date": 1715057441068,
+            "name": "D:\\Programing\\FullStack\\HealthCare\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-07-05-10-success.log",
+            "hash": "28544eed387dad07b2d9f7edae1446cf42f6e03000344e74edfc79898b7298f9"
+        },
+        {
+            "date": 1715082769790,
+            "name": "D:\\Programing\\FullStack\\HealthCare\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-07-05-17-success.log",
+            "hash": "a3c1812e8b7bd4207e9dc9a4b0cb2957a7b5ad0cfd78bc097d6c4d3e5e834310"
+        },
+        {
+            "date": 1715151776700,
+            "name": "D:\\Programing\\FullStack\\HealthCare\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-08-05-13-success.log",
+            "hash": "688917ebcd774f19f3ef5524c9dc7d8098a186c71eaeb032b4cd7f4cdd7d5871"
+        },
+        {
+            "date": 1715245453952,
+            "name": "D:\\Programing\\FullStack\\HealthCare\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-09-05-15-success.log",
+            "hash": "73124b7f7bded2af687e83c3cd89f7cbecccc75b8b71fff106aa15292e347666"
+        },
+        {
+            "date": 1715256827056,
+            "name": "D:\\Programing\\FullStack\\HealthCare\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-09-05-18-success.log",
+            "hash": "055fa979368d2e93e9d2bdbfe398298c531d002b89d12ecd9d9636a40da49fe6"
+        }
+    ],
+    "hashType": "sha256"
+}
