@@ -1,0 +1,35 @@
+Sat May 11 2024 14:40:5 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Can't reach database server at `aws-0-ap-southeast-1.pooler.supabase.com`:`5432`
+
+Please make sure your database server is running at `aws-0-ap-southeast-1.pooler.supabase.com`:`5432`.
+Sat May 11 2024 14:41:5 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Can't reach database server at `aws-0-ap-southeast-1.pooler.supabase.com`:`5432`
+
+Please make sure your database server is running at `aws-0-ap-southeast-1.pooler.supabase.com`:`5432`.
+Sat May 11 2024 14:42:5 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Can't reach database server at `aws-0-ap-southeast-1.pooler.supabase.com`:`5432`
+
+Please make sure your database server is running at `aws-0-ap-southeast-1.pooler.supabase.com`:`5432`.
+Sat May 11 2024 14:43:5 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Can't reach database server at `aws-0-ap-southeast-1.pooler.supabase.com`:`5432`
+
+Please make sure your database server is running at `aws-0-ap-southeast-1.pooler.supabase.com`:`5432`.
+Sat May 11 2024 14:44:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Can't reach database server at `aws-0-ap-southeast-1.pooler.supabase.com`:`5432`
+
+Please make sure your database server is running at `aws-0-ap-southeast-1.pooler.supabase.com`:`5432`.

@@ -9,12 +9,12 @@ const loginUser = catchAsync(async (req: Request, res: Response) => {
   const result = await AuthService.loginUser(req.body);
   const { refreshToken } = result;
   // set refresh token into cookie
-  const cookieOptions = {
+/*   const cookieOptions = {
     secure: config.env === 'production',
     httpOnly: true,
   };
 
-  res.cookie('refreshToken', refreshToken, cookieOptions);
+  res.cookie('refreshToken', refreshToken, cookieOptions); */
 
   sendResponse<ILoginUserResponse>(res, {
     statusCode: 200,
